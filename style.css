@@ -41,7 +41,7 @@ html {
 
 /*----global ----*/
 header {
-  background-image: url("../image/back.jpg");
+  background-image: url("../back.jpg");
   background-size: cover;
   height: 100%;
 }
@@ -236,7 +236,7 @@ header .home .item .item_box:hover img {
 
   /*---------------header--------*/
   header {
-    background-image: url("../image/back.jpg");
+    background-image: url("../back.jpg");
     background-size: cover;
     height: 100vh !important;
   }
@@ -667,7 +667,7 @@ footer .content li {
 
   /*----global ----*/
   header {
-    background-image: url("../image/back.jpg");
+    background-image: url("../back.jpg");
     height: 120vh !important;
   }
 
